@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Wael and I love exploring new stuff, building solutions and automate stuff (as 99% of developers I guess). 
+
+- 🔭 I’m currently working in [Incedo Services GmbH](https://incedo.de/) as Full-Stack Developer mainly.
+
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org).
+
+
 <!--
 **wael-jaber/wael-jaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
