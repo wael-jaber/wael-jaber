@@ -1,23 +1,31 @@
-### Hi there 👋
+## Hi there 👋
+I'm Wael Jabeur, a versatile Software Developer with a passion for exploring, building, and automating solutions. With experience in full-stack development, DevOps practices, and mentoring teams, I enjoy tackling complex challenges and delivering impactful software.
 
-I am Wael and I love exploring new stuff, building solutions and automate stuff (as 99% of developers I guess). 
+### About Me
+- 🎓 Education: Applied License in Computer Systems and Software from ISSAT Mateur, Tunisia.
+- 🛠️ Skills: Proficient in front-end, back-end, and desktop development using technologies like JavaScript/TypeScript, React.js, Nest.js, and Docker.
+- 🌱 Learning: Currently diving into Rust to expand my systems programming expertise.
+- 🏆 Achievements: First place in the 24H Hackathon by GIZ and Incedo Services GmbH.
+###Tech Stack
+- Languages: JavaScript, TypeScript, Java, Rust, PHP, Python
+- Frameworks: React.js, Nest.js, Electron.js
+- DevOps: Docker, Jenkins, GitHub Actions, SonarQube
+- Databases: PostgreSQL, MySQL, SQLite, MongoDB
+- Testing: Jest, Playwright, Puppeteer
+- Other: Agile methodologies, CI/CD pipelines, Technical mentoring
+### Projects
+- 🚀 Advanced Data Processing: Migrated to a desktop platform with Electron.js and automated testing, improving coverage by 40%.
+- 🔗 Incedo Lead Generator: Scalable software with Nest.js back-end and React.js front-end, enhancing performance and user experience.
+- 🎮 Snake Game (Personal Project): Developed game logic, mechanics, and GUI using Java.
+### Contact Me
+- 📫 Email: jaberwael796@gmail.com
+- 🌐 Portfolio: wael-jabeur.me
+- 💼 LinkedIn: linkedin.com/in/wael--jaber
+- 🖥️ GitHub: github.com/wael-jaber
+### Fun Facts
+- 🎮 Passionate gamer, honing problem-solving and strategic thinking.
+- 📖 Avid reader of tech and scientific books, always eager to learn.
+- 🏕️ Camping enthusiast, embracing teamwork and resilience.
+Feel free to explore my repositories and reach out for collaboration or discussions on exciting projects!
 
-- 🔭 I’m currently working in [Incedo Services GmbH](https://incedo.de/) as Full-Stack Developer mainly.
 
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org).
-
-
-<!--
-**wael-jaber/wael-jaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
