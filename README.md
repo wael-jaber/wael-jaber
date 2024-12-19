@@ -6,7 +6,7 @@ I'm Wael Jabeur, a versatile Software Developer with a passion for exploring, bu
 - 🛠️ Skills: Proficient in front-end, back-end, and desktop development using technologies like JavaScript/TypeScript, React.js, Nest.js, and Docker.
 - 🌱 Learning: Currently diving into Rust to expand my systems programming expertise.
 - 🏆 Achievements: First place in the 24H Hackathon by GIZ and Incedo Services GmbH.
-###Tech Stack
+### Tech Stack
 - Languages: JavaScript, TypeScript, Java, Rust, PHP, Python
 - Frameworks: React.js, Nest.js, Electron.js
 - DevOps: Docker, Jenkins, GitHub Actions, SonarQube
