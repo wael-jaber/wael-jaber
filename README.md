@@ -14,8 +14,8 @@ I'm Wael Jabeur, a versatile Software Developer with a passion for exploring, bu
 - Testing: Jest, Playwright, Puppeteer
 - Other: Agile methodologies, CI/CD pipelines, Technical mentoring
 ### Projects
-- 🚀 Advanced Data Processing: Migrated to a desktop platform with Electron.js and automated testing, improving coverage by 40%.
-- 🔗 Incedo Lead Generator: Scalable software with Nest.js back-end and React.js front-end, enhancing performance and user experience.
+- 🚀 Test management platform (Infineon AG): Migrated to a desktop platform with Electron.js and automated testing, improving coverage by 40%.
+- 🔗 Incedo Lead Generator (Incedo GmbH ): Scalable software with Nest.js back-end and React.js front-end, enhancing performance and user experience.
 - 🎮 Snake Game (Personal Project): Developed game logic, mechanics, and GUI using Java.
 ### Contact Me
 - 📫 Email: jaberwael796@gmail.com
