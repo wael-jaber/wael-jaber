@@ -3,9 +3,9 @@ I'm Wael Jabeur, a versatile Software Developer with a passion for exploring, bu
 
 ### Contact Me
 - 📫 Email: jaberwael796@gmail.com
-- 🌐 Portfolio: wael-jabeur.me
-- 💼 LinkedIn: linkedin.com/in/wael--jaber
-- 🖥️ GitHub: github.com/wael-jaber
+- 🌐 Portfolio: (wael-jabeur.me)[wael-jabeur.me]
+- 💼 LinkedIn: (linkedin.com/in/wael--jaber)[www.linkedin.com/in/wael--jaber/]
+- 🖥️ GitHub: (github.com/wael-jaber)[github.com/wael-jaber]
 
 ### Fun Facts
 - 🎮 Passionate gamer, honing problem-solving and strategic thinking.
